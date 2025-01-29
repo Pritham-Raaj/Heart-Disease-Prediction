@@ -1,9 +1,14 @@
 # Heart-Disease-Prediction
 
-![Heart data info](https://github.com/user-attachments/assets/1f39ebe3-1f04-4867-bcf8-31cc9e0f7018)
+![Heart data info (1)](https://github.com/user-attachments/assets/19adc4dc-e12d-4b51-bbeb-747f6f8e9ed3)
+#Data extratced that is relevant to the prediction
 
-![Heart best model](https://github.com/user-attachments/assets/67e324b1-b697-4ffb-aa63-8100a9794669)
+![Heart best model](https://github.com/user-attachments/assets/318f832e-0ab7-4c73-a987-f978d2704c7e)
+#The Best model selected out of Logistic regression, Random forest and KNN based on performance
 
-![SHAP](https://github.com/user-attachments/assets/b63deafe-ed57-4221-b5b4-bbd9f605e5bf)
+![SHAP](https://github.com/user-attachments/assets/106a4169-fcc8-48fc-b758-6764ef140268)
+#Result analysis using the help of SHAP
+
+
 
 
